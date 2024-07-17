@@ -1,8 +1,6 @@
 ### Hi there 👋 Under construction ❗🚧
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=sühademirel&count=10)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhaDemirel&theme=gruvbox&show_icons=true&count_private=true&hide=stars,issues,contribs)
 
 <!--
 **SuhaDemirel/SuhaDemirel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
